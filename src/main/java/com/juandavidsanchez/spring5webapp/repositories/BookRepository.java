@@ -1,4 +1,4 @@
-package com.juandavidsanchez.spring5webapp.model.repositories;
+package com.juandavidsanchez.spring5webapp.repositories;
 
 import com.juandavidsanchez.spring5webapp.model.Book;
 import org.springframework.data.repository.CrudRepository;
